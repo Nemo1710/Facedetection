@@ -1,4 +1,4 @@
-El presente archivo permite realizar la detección de rostros mediante Webcam, ademas encuentra el centro de masa del rostro detectado, soportar detectar múltiples rostros.
+El presente archivo permite realizar la detecciÃ³n de rostros mediante Webcam, ademas encuentra el centro de masa del rostro detectado, soportar detectar mÃºltiples rostros.
 
 Los requerimientos para ejecutar este programa son 
 -OpenCV 3.0.0
@@ -6,4 +6,3 @@ Los requerimientos para ejecutar este programa son
 -NumPY
 
 
-Autor: Carlos Venegas
